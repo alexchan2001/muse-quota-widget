@@ -1,10 +1,10 @@
 {
   "plan": "Free",
-  "used_pct": 57,
-  "remaining_pct": 43,
+  "used_pct": 58,
+  "remaining_pct": 42,
   "reset_at": "2026-11-25T02:06:00+08:00",
   "reset_text": "11/25 02:06",
   "extra_tokens_used_pct": 5,
   "extra_tokens_left": "10B tokens",
-  "updated_at": "2026-11-21T06:00:27.079523+08:00"
+  "updated_at": "2026-11-21T09:00:27.816393+08:00"
 }
